@@ -9,4 +9,4 @@ Please look into it and put forward your reviews.
 3)A dataset on restaurants visited has been analyzed to study the affect of visitors during holidays(exogenous variable) . The model used is SARIMAX(Seasonal ARIMA exogenous).
 
 
-4)Using deep learning model, the model predicts whether the customer who has taken loan will repay or not
+4)Using deep learning model, the model predicts whether the customer who has taken loan will repay or not(Lending Club kaggle Data Set).
