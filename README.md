@@ -4,3 +4,6 @@ Please look into it and put forward your reviews.
 
 
 2)I have used VAR(Vector Autoregression ) and VARMA(Vector Autoregression Moving Average) to investigate causality between Money Stock and spending and found that for the time period under consideration, used in this model, there seems to be little inter-dependence.
+
+
+3)A dataset on restaurants visited has been analyzed to study the affect of visitors during holidays(exogenous variable) . The model used is SARIMAX(Seasonal ARIMA exogenous).
