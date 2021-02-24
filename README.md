@@ -10,3 +10,5 @@ Please look into it and put forward your reviews.
 
 
 4)Using deep learning model, the model predicts whether the customer who has taken loan will repay or not(Lending Club kaggle Data Set).
+
+5)I have used Covnets to classify the category of animals using the famous Cats vs Dogs Dataset on Colab.
