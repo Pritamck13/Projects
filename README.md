@@ -14,3 +14,5 @@ Please look into it and put forward your reviews.
 5)I have used Covnets to classify the category of animals using the famous Cats vs Dogs Dataset on Colab.
 
 6)With the help of GRU layers, the text generating model generates a sequence of words that mimics the text it has been trained upon.
+
+7)Morgan Stanley/ ADF Test and Johansen,Engel Granger test were run to check for if a time series is stationary and whether two time series are cointegrated. 
